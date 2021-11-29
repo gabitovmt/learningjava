@@ -1,5 +1,7 @@
 # IntelliJ IDEA
 .idea
+/*.iml
 
 # Compiled files
 /src/**/*.class
+/out
